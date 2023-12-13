@@ -1,7 +1,7 @@
 fun main(){
     val geos = Geometrics()
-
-
+    println("")
+    println("Geometric figures context")
     //Circles
     geos.circles = Circle(45.0)
     val circle1 = geos.circles
@@ -26,8 +26,9 @@ fun main(){
     val rectangle1 = geos.quads
     println("Rectangle area: ${geos.quads.areaCalc()}m²")
 
+    println("")
     println("Loop context")
-    val figureBox = arrayOf("Circle area: ${circle1.areaCalc()}","Ellipse area: ${ellipse1.areaCalc()}","Triangle area: ${triangle1.areaCalc()}","Square area: ${square1.areaCalc()}","Rectangle area: ${rectangle1.areaCalc()}")
+    val figureBox = arrayOf("Circle area: ${circle1.areaCalc()}m²","Ellipse area: ${ellipse1.areaCalc()}m²","Triangle area: ${triangle1.areaCalc()}m²","Square area: ${square1.areaCalc()}m²","Rectangle area: ${rectangle1.areaCalc()}m²")
 
     for(x in figureBox){
         println(x)
