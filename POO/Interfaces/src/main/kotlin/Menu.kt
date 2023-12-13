@@ -8,6 +8,8 @@ class Client(var name:String){
 }
 
 interface Menu {
+    //var n: String
+        //get() = "Any Name" Interfaces doesn't accept variables with assigned values, you can only assign values using get method
     fun dailyCombo():String
 }
 
