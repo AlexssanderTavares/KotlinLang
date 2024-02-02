@@ -1,17 +1,32 @@
 fun main(){
     val box = IntegerSet()
 
-
-    for(num: Int in 0..100){
-        box.intBox.add(num)
-    }
-
-
-
+    println("Function isTrue context")
 
     box.isTrue(box.intBox)
     box.boolBox1.forEach { println(it) }
-    //println(box.intBox.forEach(::println))
 
+    println("---------------------------")
+    println(box.unite())
+    println("Adding numbers context")
+
+    for(num in 0..100){
+        box.intBox.add(num)
+    }
+
+    println("---------------------------")
+
+
+    box.describe()
+
+
+    println("Function isTrue context")
+
+    box.isTrue(box.intBox)
+    box.boolBox1.forEach { println(it) }
+
+    println("---------------------------")
+
+    //println(box.unite())
 
 }
