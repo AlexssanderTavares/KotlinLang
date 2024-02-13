@@ -50,4 +50,6 @@ class Square(var side: Double) : Geometrics(){
         val area: Double = this.side * this.side
         return area
     }
+
+
 }

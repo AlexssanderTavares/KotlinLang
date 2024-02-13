@@ -60,6 +60,7 @@ fun main() {
     //COMBINATING LISTS
 
     //combination 1
+    println("THIS IS THE POINT")
     val a = mutableListOf("Alexssander","Lucas")
     val b = mutableListOf("Joao", "Peter" , "Lindiane")
 
