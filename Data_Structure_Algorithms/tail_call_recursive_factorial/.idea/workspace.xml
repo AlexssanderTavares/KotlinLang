@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="231c11f7-b116-4fe7-bf95-2504cf0b6f47" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Collections/arrays_lists/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections/arrays_lists/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Loops/exercise5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Loops/exercise5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Loops/exercise6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Loops/exercise6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Loops/exercise6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Loops/exercise6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/POO exercises/exercise12/src/main/kotlin/Geometrics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/POO exercises/exercise12/src/main/kotlin/Geometrics.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2c8fkTHLmCNlawN8zmW2DgSDq3r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;new__learnings&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alexs/OneDrive/Área de Trabalho/KOTLIN/Data_Structure_Algorithms/tail_call_recursive_factorial&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="231c11f7-b116-4fe7-bf95-2504cf0b6f47" name="Changes" comment="" />
+      <created>1707498271817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707498271817</updated>
+    </task>
+    <servers />
+  </component>
+</project>
